@@ -1,0 +1,3 @@
+[INFO]-2019-09-27 23:25:44-worker_mqtt_main.py:32:Worker 15 is successfully connected with broker@localhost
+[INFO]-2019-09-27 23:25:46-worker.py:165:Worker 15-Ep. 0: Loss=-0.0064 (EMA:  -0.01, Mean:  -0.01), Score=26.00 (EMA: 26.00, Mean: 26.00)
+[INFO]-2019-09-27 23:25:46-worker.py:64:[SEND] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 15 'loss': -0.006391112692654133, 'score': 26.0 'gradients_length': 4

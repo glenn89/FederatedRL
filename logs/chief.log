@@ -1,0 +1,17 @@
+[INFO]-2019-09-27 23:25:41-chief_mqtt_main.py:30:Chief is successfully connected with broker@localhost
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 0, 'loss': -0.008914568927139044, 'score': 20.6, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 5, 'loss': -0.006596097908914089, 'score': 22.88888888888889, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 2, 'loss': -0.006642445642501116, 'score': 22.666666666666668, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 4, 'loss': -0.007158755324780941, 'score': 23.88888888888889, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 8, 'loss': -0.006162370461970568, 'score': 20.3, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 6, 'loss': -0.006860040221363306, 'score': 25.625, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 1, 'loss': -0.005959968781098723, 'score': 17.333333333333332, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 7, 'loss': -0.006085609085857868, 'score': 23.4, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 3, 'loss': -0.009186357725411654, 'score': 20.7, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 9, 'loss': -0.006557407509535551, 'score': 22.88888888888889, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 11, 'loss': -0.012678664829581975, 'score': 18.5, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 10, 'loss': -0.008685301151126623, 'score': 29.857142857142858, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 12, 'loss': -0.00709484163671732, 'score': 20.7, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 15, 'loss': -0.006391112692654133, 'score': 26.0, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 13, 'loss': -0.005677303858101368, 'score': 19.0, 'gradients_length': 4
+[INFO]-2019-09-27 23:25:46-chief_mqtt_main.py:61:[RECV] TOPIC: Episode_Detail, PAYLOAD: 'episode': 0, 'worker_id': 14, 'loss': -0.006016929540783167, 'score': 28.11111111111111, 'gradients_length': 4
