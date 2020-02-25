@@ -5,7 +5,7 @@ We try to allow multiple reinforcement learning agents to learn optimal control 
 To solve this problem, we propose a new federated reinforcement learning architecture where each agent working on its independent IoT device shares their learning experience (i.e., the gradient of loss function) with each other, and transfers a mature policy model parameters into other agents. They accelerate its learning process by using mature parameters. We incorporate the Actor-Critic PPO algorithm into each agent in the proposed collaborative architecture and propose an efficient procedure for the gradient sharing and the model transfer.
 
 We use Quanser's Qube-servo 2 as the real device. We also used CartPole from OpenAI Gym as the simulation environment.
-Our related paper is "분산 다중 에이전트 기반 연합 강화 학습을 활용한 학습 성능 개선" in Proceedings of KICS Fall Conference 2019, November, Seoul, Korea, 2019.
+Our related paper is "Learning Performance Improvement Using Federated Reinforcement Learning Based on Distributed Multi-Agents" in Proceedings of KICS Fall Conference 2019, November, Seoul, Korea, 2019.
 
 ### Execute the Proposed Federated Reinforcement Learning in Simulation Environment
 - Set-up the hyper-parameter
