@@ -68,7 +68,7 @@ termcolor==1.1.0
 torch==1.2.0
 torchsummary==1.5.1
 torchvision==0.4.0a0+6b959ee
-Twisted==17.9.0
+Twisted==22.1.0
 tzlocal==2.0.0
 urllib3==1.25.3
 Werkzeug==0.15.4
