@@ -39,7 +39,7 @@ mkl-random==1.0.2
 mkl-service==2.0.2
 mlagents-envs==0.9.0
 more-itertools==7.2.0
-numpy==1.16.4
+numpy==1.22.0
 olefile==0.46
 paho-mqtt==1.4.0
 Pillow==5.4.1
